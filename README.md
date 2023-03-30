@@ -13,6 +13,7 @@ In this chapter, we will explain what we are going to learn, have a look at the 
 ## Chapter 1
 A simple CRUD controller with Rails
 In this first chapter, we will start our application by creating our quote model and its associated controller following the Ruby on Rails conventions.
+<br>https://www.hotrails.dev/turbo-rails/crud-controller-ruby-on-rails
 
 ## Chapter 2
 Organizing CSS files in Ruby on Rails
