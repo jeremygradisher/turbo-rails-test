@@ -31,6 +31,8 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+gem "turbo-rails", "~> 1.0"
+
 gem 'sprockets-rails', :require => 'sprockets/railtie'
 
 #gem 'pg', '~> 0.18'
