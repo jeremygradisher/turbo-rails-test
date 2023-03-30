@@ -15,6 +15,8 @@ A simple CRUD controller with Rails
 In this first chapter, we will start our application by creating our quote model and its associated controller following the Ruby on Rails conventions.
 <br>https://www.hotrails.dev/turbo-rails/crud-controller-ruby-on-rails
 
+Now that our tests are ready, we can run them with $ bin/rails test:system
+
 ## Chapter 2
 Organizing CSS files in Ruby on Rails
 In this chapter, we will write some CSS using the BEM methodology to create a nice design system for our application.
