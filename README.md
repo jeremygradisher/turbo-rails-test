@@ -8,7 +8,7 @@ Learn how to leverage the power of the turbo-rails library now included by defau
 ## Chapter 0
 Turbo Rails tutorial introduction
 In this chapter, we will explain what we are going to learn, have a look at the finished product and kickstart our brand new Rails 7 application!
-https://www.hotrails.dev/turbo-rails/turbo-rails-tutorial-introduction
+<br>https://www.hotrails.dev/turbo-rails/turbo-rails-tutorial-introduction
 
 ## Chapter 1
 A simple CRUD controller with Rails
